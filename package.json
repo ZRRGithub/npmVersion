@@ -1,0 +1,22 @@
+{
+  "name": "zrr-package-comp",
+  "version": "1.0.0",
+  "description": "A test comp.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZRRGithub/comp-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "zhurr <2679574886@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZRRGithub/comp-demo/issues"
+  },
+  "homepage": "https://github.com/ZRRGithub/comp-demo#readme"
+}
